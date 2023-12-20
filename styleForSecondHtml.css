@@ -1,0 +1,44 @@
+.style {
+    height: 100%;
+    background: #262050;
+}
+
+.fontDevices p {
+    color: white;
+    font-weight: 600;
+    font-size: large;
+}
+
+.SettingsButton {
+    justify-content: center;
+    display: flex;
+}
+
+.btn-light {
+    margin-top: 30px;
+}
+
+.welcome {
+    justify-content: center;
+    display: flex;
+}
+
+.welcome h1 {
+    color: white;
+    font-size: large;
+    margin-top: 130px;
+}
+
+.formPlacement {
+    justify-content: center;
+    display: flex;
+}
+
+.backgroundStyleForm {
+    background: #069bdb;
+    padding-top: 30px;
+    padding-right: 160px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    margin-top: 40px;
+}

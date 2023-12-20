@@ -1,0 +1,85 @@
+.siteStyle {
+    background: #586cc4;
+    height: 100%;
+    padding-bottom: 253px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F6F8FA;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 50px auto;
+}
+
+thead {
+    background-color: rgba(37, 150, 190, 255);
+    color: white;
+}
+
+th {
+    padding: 15px;
+}
+
+td {
+    padding: 10px 15px;
+    text-align: center;
+}
+
+tbody tr:nth-child() {
+    background-color: #F2F2F2;
+}
+
+#products-table-body {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+p {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.settingsButton1 button {
+    margin-top: 65px;
+    position: absolute;
+    margin-left: 590px;
+    width: 10%;
+}
+
+.settingsButton2 button {
+    margin-top: 110px;
+    position: absolute;
+    margin-left: 590px;
+    width: 10%;
+}
+
+.settingsButton3 button {
+    margin-top: 155px;
+    position: absolute;
+    margin-left: 590px;
+    width: 10%;
+}
+
+.settingsButton4 button {
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 590px;
+    width: 10%;
+}
+
+.FixedTable {
+    margin-top: 150px;
+}
